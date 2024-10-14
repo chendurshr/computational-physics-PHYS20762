@@ -1,5 +1,5 @@
 # computational-physics-PHYS20762
-Jupyter notebook submissions for PHYS20762 in AY 23-24. Please refrain from plagiarising for future/similar renditions of the module.
+Jupyter notebook submissions for PHYS20762 in AY 23-24. Please refrain from plagiarising for future/similar renditions of the module. You will have to download and re-run the notebooks to access the interactive plots (project 2) or re-visualise the neutron walks (project 3).
 
 ## License
 
